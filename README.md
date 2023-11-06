@@ -18,3 +18,4 @@ I'm Faizan Ahmed, a passionate software developer and tech enthusiast. Welcome t
 ⚡ Fun fact: I enjoy exploring new hiking trails and capturing the beauty of nature through photography.
 
 Feel free to explore my repositories and connect with me. Happy coding! 🚀
+Faizanamd Faizanamd Faizanamd
