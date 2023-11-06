@@ -10,7 +10,7 @@ I'm Faizan Ahmed, a passionate software developer and tech enthusiast. Welcome t
 
 📫 How to reach me:
 - Email: famdizan8391@gmail.com
-- LinkedIn: Visit Linked([urlhttps://www.linkedin.com/in/fxan-thues-1b105b28b/])
+- LinkedIn: Visit Linked(www.linkedin.com/in/fxan-thues-1b105b28b/)
 - GitHub: [github.com/Faizanamd](https://github.com/Faizanamd)
 
 😄 Pronouns: He/Him
