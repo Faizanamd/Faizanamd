@@ -11,7 +11,7 @@ I'm Faizan Ahmad, a passionate software developer and tech enthusiast. Welcome t
 📫 How to reach me:
 - Email: [famdizan8391@gmail.com](mailto:famdizan8391@gmail.com)
 - LinkedIn: [Faizan Ahmad](https://www.linkedin.com/in/fxan-thues/)
-- GitHub: [Faizanam](https://github.com/Faizanam)
+- GitHub: [Faizanam](https://github.com/Faizanamd)
 
 😄 Pronouns: He/Him
 
@@ -32,8 +32,6 @@ An interactive Power BI dashboard analyzing road accident data, providing insigh
 An interactive Power BI dashboard for visualizing e-commerce sales data, enhancing data-driven decision-making.
 - **[View Repository](https://github.com/Faizanam/powerbi-ecommerce-sales-dashboard)**
 
-### GitHub Stats
-![Faizan Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizanam&show_icons=true&theme=radical)
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=flat)
