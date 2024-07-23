@@ -11,7 +11,7 @@ I'm Faizan Ahmad, a passionate software developer and tech enthusiast. Welcome t
 📫 How to reach me:
 - Email: [famdizan8391@gmail.com](mailto:famdizan8391@gmail.com)
 - LinkedIn: [Faizan Ahmad](https://www.linkedin.com/in/fxan-thues/)
-- GitHub: [Faizanam](https://github.com/Faizanamd)
+- GitHub: [Faizanamd](https://github.com/Faizanamd)
 
 😄 Pronouns: He/Him
 
@@ -20,17 +20,6 @@ I'm a versatile developer with experience in:
 - **Data Analysis**
 - **Full Stack Development** with JavaScript, ReactJS, Node.js, Express, and MongoDB
 - **Frontend Development**
-
-### My Projects
-Here are some of my highlighted projects:
-
-#### 1. Power BI Road Accident Dashboard
-An interactive Power BI dashboard analyzing road accident data, providing insights into accident trends and safety measures.
-- **[View Repository](https://github.com/Faizanam/powerbi-road-accident-dashboard)**
-
-#### 2. E-commerce Sales Dashboard
-An interactive Power BI dashboard for visualizing e-commerce sales data, enhancing data-driven decision-making.
-- **[View Repository](https://github.com/Faizanam/powerbi-ecommerce-sales-dashboard)**
 
 
 ### Languages and Tools
@@ -43,7 +32,3 @@ An interactive Power BI dashboard for visualizing e-commerce sales data, enhanci
 
 ### Let's Connect!
 Feel free to explore my repositories and connect with me. Happy coding! 🚀
-
-![GitHub Follow](https://img.shields.io/github/followers/Faizanam?label=Follow&style=social)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)
-![Twitter](https://img.shields.io/twitter/follow/Faizanam?label=Follow&style=social)
